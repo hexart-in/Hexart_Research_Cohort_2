@@ -1,0 +1,492 @@
+﻿"TimeGenerated [Chennai, Kolkata, Mumbai, New Delhi]",ObjectKind,Reason,Message
+"26/8/2021, 10:33:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 3:23:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 3:27:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 5:34:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 5:51:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 7:07:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 7:13:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"26/8/2021, 7:45:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 7:51:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 9:38:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 10:41:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 11:32:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"27/8/2021, 2:33:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"27/8/2021, 3:01:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"27/8/2021, 4:56:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"27/8/2021, 5:02:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"27/8/2021, 5:09:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"27/8/2021, 5:11:23.000 am",Pod,Unhealthy,Liveness probe failed: container c91f039ba221733f45d28f4196653ea808628104c65420bfcb435096a692d081 encountered an error during hcsshim::System::CreateProcess: failure in a Windows system call: The paging file is too small for this operation to complete. (0x5af) 
+"27/8/2021, 5:11:23.000 am",Pod,Unhealthy,Liveness probe failed: Out of memory. 
+"25/8/2021, 2:16:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 3:07:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 3:13:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 3:53:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 4:39:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 6:43:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 6:49:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"25/8/2021, 7:58:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 8:22:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 8:28:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"26/8/2021, 3:20:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 4:53:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"26/8/2021, 5:45:23.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.0.149:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"24/8/2021, 8:17:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"24/8/2021, 8:23:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"24/8/2021, 9:13:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"24/8/2021, 10:09:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 2:33:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 3:55:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 4:01:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"25/8/2021, 6:08:23.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"25/8/2021, 6:08:23.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: The paging file is too small for this operation to complete. "
+"25/8/2021, 6:09:23.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit  "
+"25/8/2021, 6:20:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 7:18:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 7:24:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 7:44:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"25/8/2021, 8:35:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"23/8/2021, 10:23:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"24/8/2021, 2:49:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"24/8/2021, 11:59:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"24/8/2021, 12:05:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"24/8/2021, 12:40:23.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.0.149:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"24/8/2021, 12:40:23.000 pm",Pod,Unhealthy,Liveness probe failed: HTTP probe failed with statuscode: 500
+"24/8/2021, 12:40:23.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.16:8080/healthz"": dial tcp 10.0.0.16:8080: connect: connection refused"
+"24/8/2021, 12:40:23.000 pm",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.0.149:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"24/8/2021, 12:41:23.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.16:8080/healthz"": dial tcp 10.0.0.16:8080: connect: connection refused"
+"19/8/2021, 4:44:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 5:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 6:06:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 6:07:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""  "
+"19/8/2021, 6:07:29.000 pm",Pod,Unhealthy,Liveness probe failed:  Not enough memory resources are available to process this command. The syntax of the command is incorrect. 
+"19/8/2021, 7:19:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 7:57:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 11:44:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 12:38:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 1:59:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.32:8080/last-poll"": dial tcp 10.0.1.32:8080: connect: connection refused"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,Liveness probe failed: /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8) 
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": dial tcp 10.0.1.76:443: connect: connection refused"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.36:8080/health"": dial tcp 10.0.1.36:8080: connect: connection refused"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""http://10.0.1.36:8181/ready"": dial tcp 10.0.1.36:8181: connect: connection refused"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = failed to exec in container: container is in CONTAINER_EXITED state
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""http://10.0.0.96:8181/ready"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.96:8080/health"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"20/8/2021, 5:44:23.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": dial tcp 10.0.1.76:443: connect: connection refused"
+"20/8/2021, 6:03:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 8:24:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 8:31:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 9:20:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 9:27:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 4:47:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 5:51:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"20/8/2021, 5:57:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"23/8/2021, 3:05:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"23/8/2021, 4:37:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"23/8/2021, 9:02:23.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"23/8/2021, 10:00:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"23/8/2021, 6:37:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"23/8/2021, 6:43:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"23/8/2021, 6:50:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"22/8/2021, 11:58:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"22/8/2021, 12:02:23.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"22/8/2021, 2:12:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"22/8/2021, 3:41:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"22/8/2021, 6:15:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"22/8/2021, 6:18:23.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"22/8/2021, 6:19:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Server execution failed  "
+"22/8/2021, 6:19:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"22/8/2021, 10:52:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"22/8/2021, 10:53:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"22/8/2021, 10:54:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"23/8/2021, 10:12:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 9:57:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"22/8/2021, 4:33:23.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Not enough memory resources are available to complete this operation.  "
+"22/8/2021, 10:31:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 8:37:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 10:18:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 1:56:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 3:45:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 3:51:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 3:54:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Server execution failed  "
+"21/8/2021, 3:54:23.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"21/8/2021, 7:34:23.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 12:41:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 2:08:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 2:21:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 4:04:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 4:10:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 6:44:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"21/8/2021, 6:51:23.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 5:34:29.000 am",Pod,Unhealthy,Liveness probe failed: HTTP probe failed with statuscode: 500
+"17/8/2021, 5:34:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"17/8/2021, 8:58:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 9:42:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 9:42:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"17/8/2021, 9:50:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 10:04:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 10:10:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"17/8/2021, 10:12:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Server execution failed  "
+"17/8/2021, 10:12:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"17/8/2021, 1:07:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 1:09:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"16/8/2021, 9:21:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 9:28:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"17/8/2021, 12:20:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 5:21:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 5:45:29.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": context deadline exceeded"
+"18/8/2021, 5:45:29.000 am",Pod,Unhealthy,Liveness probe failed: /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8) 
+"18/8/2021, 5:45:29.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"18/8/2021, 5:45:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.16:8080/healthz"": dial tcp 10.0.0.16:8080: connect: connection refused"
+"18/8/2021, 5:45:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"18/8/2021, 5:46:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.16:8080/healthz"": dial tcp 10.0.0.16:8080: connect: connection refused"
+"18/8/2021, 7:04:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 8:24:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 9:56:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit  The system cannot execute the specified program. "
+"18/8/2021, 9:56:29.000 am",Pod,Unhealthy,Liveness probe failed: 
+"18/8/2021, 9:56:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"18/8/2021, 10:01:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 12:14:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 12:20:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"18/8/2021, 12:27:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 6:12:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 6:19:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 6:25:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"17/8/2021, 6:26:29.000 pm",Pod,Unhealthy,Liveness probe failed: The system cannot find message text for message number 0x8 in the message file for System. 
+"17/8/2021, 6:27:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Server execution failed  "
+"17/8/2021, 6:50:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 7:50:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"17/8/2021, 9:27:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 11:07:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 1:32:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 4:57:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 9:57:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 12:46:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 12:52:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"16/8/2021, 1:21:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 3:24:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit  "
+"16/8/2021, 3:24:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"16/8/2021, 3:25:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"16/8/2021, 3:40:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 4:30:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 4:31:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 5:46:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 5:53:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 6:08:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"16/8/2021, 6:08:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.16:8080/healthz"": dial tcp 10.0.0.16:8080: connect: connection refused"
+"16/8/2021, 6:08:29.000 pm",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"16/8/2021, 7:06:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 7:42:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 5:24:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 7:50:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 9:04:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"18/8/2021, 9:11:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"19/8/2021, 1:37:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 4:04:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"19/8/2021, 4:12:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 10:49:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 2:04:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 4:26:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"16/8/2021, 8:43:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 4:37:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 5:44:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 7:25:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 7:35:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 9:16:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 9:22:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"13/8/2021, 9:26:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"13/8/2021, 9:39:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 9:46:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"14/8/2021, 12:21:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 12:56:29.000 am",Pod,Unhealthy,Liveness probe failed: container 06fed194c5b7e99d3b4827ac9689b2dc387466ee6b545305835b4bade467bebe encountered an error during hcsshim::System::CreateProcess: failure in a Windows system call: The paging file is too small for this operation to complete. (0x5af) 
+"14/8/2021, 1:08:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 11:01:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 11:03:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 11:08:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 11:13:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Server execution failed  "
+"14/8/2021, 2:46:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 7:55:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 8:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 2:46:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 2:53:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 2:54:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 4:25:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"13/8/2021, 6:14:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 6:21:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 4:57:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 5:36:29.000 am",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"14/8/2021, 5:36:29.000 am",Pod,Unhealthy,Liveness probe failed: HTTP probe failed with statuscode: 500
+"14/8/2021, 5:36:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"14/8/2021, 6:08:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 7:30:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 9:42:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 4:34:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 8:43:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 11:41:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 11:52:29.000 am",Pod,BackOff,Back-off restarting failed container
+"15/8/2021, 11:52:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.58:8080/healthz"": dial tcp 10.0.1.58:8080: connect: connection refused"
+"15/8/2021, 2:17:29.000 pm",Pod,Unhealthy,Liveness probe failed: /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8) 
+"15/8/2021, 2:56:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Out of memory  "
+"15/8/2021, 2:59:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"15/8/2021, 3:03:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"15/8/2021, 3:04:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"15/8/2021, 3:05:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Provider load failure  "
+"15/8/2021, 3:30:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 4:27:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 6:58:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 7:41:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"14/8/2021, 9:36:29.000 pm",Pod,Unhealthy,Liveness probe failed: HTTP probe failed with statuscode: 500
+"14/8/2021, 9:37:29.000 pm",Pod,Unhealthy,Liveness probe failed: /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8) 
+"15/8/2021, 12:44:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 2:13:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 3:12:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 9:28:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"15/8/2021, 9:35:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 10:02:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 1:35:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 1:41:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"13/8/2021, 2:03:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"13/8/2021, 11:00:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 5:07:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 7:40:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 9:16:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 10:57:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 5:16:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 6:08:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"12/8/2021, 6:15:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"12/8/2021, 6:21:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 6:18:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 7:16:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 7:23:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"10/8/2021, 7:29:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 7:31:29.000 am",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" ERROR: Provider is not capable of the attempted operation  "
+"10/8/2021, 8:36:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 10:24:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 12:03:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 1:22:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 4:33:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 5:23:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 5:30:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 5:49:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"10/8/2021, 6:22:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 10:53:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 12:25:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 1:04:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 2:06:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 3:52:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 8:24:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 9:36:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.58:8080/healthz"": dial tcp 10.0.1.58:8080: connect: connection refused"
+"29/7/2021, 5:46:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"29/7/2021, 2:04:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",RabbitMQ,NodeDown,Node rabbit@rabbitmq-0.rabbitmq-svc.oie.svc.cluster.local is down or disconnected 
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,Unhealthy,Readiness probe errored: rpc error: code = Unknown desc = container not running (378786548cdd9fef87a54fffaa2449553cdf7988dd2886a9591a0ee942a53834)
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",RabbitMQ,NodeDown,Node rabbit@oncallrabbit-rabbitmq-1.oncallrabbit-rabbitmq-headless.nwp.svc.cluster.local is down or disconnected 
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,Unhealthy,Readiness probe errored: rpc error: code = Unknown desc = container not running (d99f771249bb0f50b42119e5ce66a2c48bf5d605250dc9d73055088a65903189)
+"29/7/2021, 2:43:29.000 pm",Pod,Unhealthy,Readiness probe errored: rpc error: code = Unknown desc = container not running (7d7e681f626b87e94cafbde544047d3d4ee41747c38c322037164bda6afdca65)
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",RabbitMQ,NodeDown,Node rabbit@rabbitmq-0.rabbitmq-svc.oie.svc.cluster.local is down or disconnected 
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = failed to exec in container: timeout 10s exceeded: context deadline exceeded
+"29/7/2021, 2:43:29.000 pm",RabbitMQ,NodeDown,Node rabbit@oncallrabbit-rabbitmq-1.oncallrabbit-rabbitmq-headless.nwp.svc.cluster.local is down or disconnected 
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,NodeNotReady,Node is not ready
+"29/7/2021, 2:43:29.000 pm",Pod,Unhealthy,Readiness probe errored: rpc error: code = DeadlineExceeded desc = failed to exec in container: timeout 10s exceeded: context deadline exceeded
+"29/7/2021, 2:44:29.000 pm",Pod,Unhealthy,Readiness probe failed: 
+"29/7/2021, 2:44:29.000 pm",Pod,Unhealthy,Readiness probe failed: 
+"29/7/2021, 2:44:29.000 pm",Pod,Unhealthy,Readiness probe failed: 
+"29/7/2021, 2:44:29.000 pm",Pod,Unhealthy,Readiness probe failed: 
+"29/7/2021, 2:44:29.000 pm",Pod,Unhealthy,Readiness probe failed: 
+"29/7/2021, 3:17:29.000 pm",Node,Rebooted,"Node aks-agentrmq-18471369-vmss000000 has been rebooted, boot id: 86af82c9-c455-4fc8-b1b4-f3955c1df486"
+"29/7/2021, 3:17:29.000 pm",Node,InvalidDiskCapacity,invalid capacity 0 on image filesystem
+"29/7/2021, 3:18:29.000 pm",Pod,BackOff,Back-off restarting failed container
+"29/7/2021, 3:18:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.0.225:9808/healthz"": dial tcp 10.0.0.225:9808: connect: connection refused"
+"29/7/2021, 3:19:29.000 pm",Pod,Unhealthy,Readiness probe failed: Error: RabbitMQ on node rabbit@oncallrabbit-rabbitmq-1.oncallrabbit-rabbitmq-headless.nwp.svc.cluster.local is not running or has not fully booted yet (check with is_booting) 
+"29/7/2021, 3:19:29.000 pm",Pod,Unhealthy,Readiness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"29/7/2021, 3:20:29.000 pm",Pod,Unhealthy,Liveness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"29/7/2021, 8:38:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 3:27:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 6:39:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 6:46:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 6:51:29.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"9/8/2021, 7:40:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 7:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"9/8/2021, 10:13:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 10:50:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"10/8/2021, 1:54:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"31/7/2021, 3:01:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"31/7/2021, 3:08:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"31/7/2021, 6:30:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"2/8/2021, 2:04:29.000 pm",Pod,Unhealthy,Liveness probe failed: HTTP probe failed with statuscode: 500
+"2/8/2021, 2:25:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"2/8/2021, 2:25:29.000 pm",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"2/8/2021, 2:26:29.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"2/8/2021, 2:26:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.58:8080/healthz"": dial tcp 10.0.1.58:8080: connect: connection refused"
+"2/8/2021, 9:22:29.000 pm",Pod,Unhealthy,Liveness probe failed: container 59210275f86b5e7eda72c843cd44aa082ee2d9c14e1c484c3628232163fc5b9d encountered an error during hcsshim::System::CreateProcess: failure in a Windows system call: The remote procedure call failed. (0x6be) 
+"2/8/2021, 9:23:29.000 pm",Pod,Unhealthy,Liveness probe failed: container 59210275f86b5e7eda72c843cd44aa082ee2d9c14e1c484c3628232163fc5b9d encountered an error during hcsshim::System::CreateProcess: failure in a Windows system call: The RPC server is unavailable. (0x6ba) 
+"2/8/2021, 9:24:29.000 pm",Pod,Unhealthy,Liveness probe failed: container 59210275f86b5e7eda72c843cd44aa082ee2d9c14e1c484c3628232163fc5b9d encountered an error during hcsshim::System::CreateProcess: failure in a Windows system call: The RPC server is unavailable. (0x6ba) 
+"9/8/2021, 5:23:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 6:51:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 6:58:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 7:50:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 8:36:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 9:47:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 9:54:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 10:09:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 10:15:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 10:58:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 11:52:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 1:00:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"2/8/2021, 12:54:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"2/8/2021, 8:49:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"28/7/2021, 3:48:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"28/7/2021, 8:50:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"28/7/2021, 9:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"28/7/2021, 10:16:29.000 pm",Pod,Unhealthy,Readiness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:17:29.000 pm",Pod,Unhealthy,Liveness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:17:29.000 pm",Pod,Unhealthy,Readiness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:19:29.000 pm",Pod,Unhealthy,Liveness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:19:29.000 pm",Pod,Unhealthy,Readiness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:20:29.000 pm",Pod,Unhealthy,Liveness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:23:29.000 pm",Pod,Unhealthy,Readiness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"28/7/2021, 10:23:29.000 pm",Pod,Unhealthy,Liveness probe failed: [1m[31mRABBITMQ_ERLANG_COOKIE env variable support is deprecated and will be REMOVED in a future version. [0m[33mUse the $HOME/.erlang.cookie file or the --erlang-cookie switch instead.[0m Error: this command requires the 'rabbit' app to be running on the target node. Start it with 'rabbitmqctl start_app'. Arguments given:  status  [1mUsage[0m  rabbitmqctl [--node <node>] [--longnames] [--quiet] status [--unit <unit>] [--timeout <timeout>] 
+"29/7/2021, 3:53:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 10:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 12:51:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 1:17:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 2:50:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 3:45:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 4:10:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"9/8/2021, 4:20:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 9:45:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 9:36:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 10:16:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 10:23:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 10:37:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 12:48:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 12:54:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"8/8/2021, 1:01:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 3:23:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 3:39:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 3:45:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"8/8/2021, 6:49:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 6:56:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"8/8/2021, 7:02:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 7:09:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"1/8/2021, 5:21:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"1/8/2021, 5:39:29.000 am",Pod,Unhealthy,Readiness probe failed: HTTP probe failed with statuscode: 500
+"1/8/2021, 5:39:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
+"1/8/2021, 5:40:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.58:8080/healthz"": dial tcp 10.0.1.58:8080: connect: connection refused"
+"1/8/2021, 9:23:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"1/8/2021, 6:00:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 12:30:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 12:38:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 12:40:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 1:39:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 2:21:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 3:51:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 5:00:29.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"11/8/2021, 5:01:29.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"11/8/2021, 5:02:29.000 pm",Pod,Unhealthy,Liveness probe failed: 
+"11/8/2021, 6:13:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"11/8/2021, 7:03:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"11/8/2021, 8:08:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 10:10:29.000 am",Pod,Unhealthy,"Readiness probe failed: Error: unable to perform an operation on node 'rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local'. Please see diagnostics information and suggestions below.  Most common reasons for this are:   * Target node is unreachable (e.g. due to hostname resolution, TCP connection or firewall issues)  * CLI tool fails to authenticate with the server (e.g. due to CLI tool's Erlang cookie not matching that of the server)  * Target node is not running  In addition to the diagnostics info below:   * See the CLI, clustering and networking guides on https://rabbitmq.com/documentation.html to learn more  * Consult server logs on node rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local  * If target node is configured to use long node names, don't forget to use --longnames with CLI tools  DIAGNOSTICS ===========  attempted to contact: ['rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local']  rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local:   * connected to epmd (port 4369) on oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local   * node rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local up, 'rabbit' application not running   * running applications on rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local: [rabbitmq_prelaunch,                                                                                                                      rabbit_common,                                                                                                                      credentials_obfuscation,                                                                                                                      recon,                                                                                                                      ranch,                                                                                                                      jsx,                                                                                                                      lager,                                                                                                                      goldrush,                                                                                                                      xmerl,                                                                                                                      tools,                                                                                                                      syntax_tools,                                                                                                                      ssl,                                                                                                                      public_key,                                                                                                                      asn1,                                                                                                                      crypto,                                                                                                                      compiler,                                                                                                                      sasl,                                                                                                                      stdlib,                                                                                                                      kernel]   * suggestion: use rabbitmqctl start_app on rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local  Current node details:  * node name: 'rabbitmqcli-470-rabbit@oncallrabbit-rabbitmq-0.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local'  * effective user's home directory: /opt/bitnami/rabbitmq/.rabbitmq  * Erlang cookie hash: cPZWQkfU7H4UwG3HbiReUg==  "
+"6/8/2021, 10:12:29.000 am",RabbitMQ,NodeDown,Node rabbit@oncallrabbit-rabbitmq-1.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local is down or disconnected 
+"6/8/2021, 10:13:29.000 am",RabbitMQ,NodeDown,Node rabbit@oncallrabbit-rabbitmq-2.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local is down or disconnected 
+"6/8/2021, 10:13:29.000 am",RabbitMQ,NodeDown,Node rabbit@oncallrabbit-rabbitmq-2.oncallrabbit-rabbitmq-headless.nwpstg.svc.cluster.local is down or disconnected 
+"6/8/2021, 10:26:29.000 am",Pod,Failed,"Error: secret ""oncall-dispatch-commonsecrets"" not found"
+"6/8/2021, 10:26:29.000 am",Pod,Failed,"Error: secret ""oncall-dispatch-secrets"" not found"
+"6/8/2021, 10:26:29.000 am",Pod,Failed,"Error: secret ""oncall-dispatch-commonsecrets"" not found"
+"6/8/2021, 10:26:29.000 am",Pod,Failed,"Error: secret ""oncall-dispatch-secrets"" not found"
+"6/8/2021, 10:26:29.000 am",Pod,Failed,"Error: secret ""oncall-dispatch-secrets"" not found"
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:27:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:28:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:28:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 10:47:29.000 am",Pod,NodeNotReady,Node is not ready
+"6/8/2021, 10:57:29.000 am",Pod,NodeNotReady,Node is not ready
+"6/8/2021, 11:24:29.000 am",Pod,Unhealthy,Readiness probe failed: 
+"6/8/2021, 11:36:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 12:44:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 12:49:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 12:51:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 2:20:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 2:27:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 3:04:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 5:34:29.000 am",Pod,Unhealthy,Liveness probe failed: 
+"6/8/2021, 5:34:29.000 am",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"7/8/2021, 9:35:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 9:42:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 9:48:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"7/8/2021, 10:33:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 12:03:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 12:13:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 12:48:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 1:09:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"7/8/2021, 1:09:29.000 pm",Pod,Unhealthy,"Readiness probe failed: Get ""https://10.0.1.76:443/healthz"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"
+"7/8/2021, 1:09:29.000 pm",Pod,Unhealthy,"Liveness probe failed: Get ""http://10.0.1.58:8080/healthz"": dial tcp 10.0.1.58:8080: connect: connection refused"
+"7/8/2021, 2:42:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 2:48:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"7/8/2021, 3:13:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 3:20:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 3:35:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 4:37:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 5:34:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 8:23:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 8:30:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 8:36:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"7/8/2021, 8:42:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 9:58:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 11:14:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 1:03:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 1:10:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 3:56:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 4:03:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"8/8/2021, 4:09:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 5:45:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 5:51:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"8/8/2021, 8:22:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"31/7/2021, 7:08:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"31/7/2021, 7:15:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"31/7/2021, 7:52:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"31/7/2021, 7:59:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"30/7/2021, 3:28:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"30/7/2021, 8:28:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"30/7/2021, 9:44:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )  ""Fluent-Bit is not running"" "
+"30/7/2021, 9:44:29.000 pm",Pod,Unhealthy,"Liveness probe failed:  C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluent-bit is running""   C:\opt\omsagentwindows\scripts\powershell>tasklist /fi ""imagename eq fluent-bit.exe"" /fo ""table""    | findstr fluent-bit   C:\opt\omsagentwindows\scripts\powershell>IF ERRORLEVEL 1 ( echo ""Fluent-Bit is not running""    exit /b 1  )   C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if config map has been updated since agent start""   C:\opt\omsagentwindows\scripts\powershell>IF EXIST C:\etc\omsagentwindows\filesystemwatcher.txt ( echo ""Config Map Updated since agent started""    exit /b  1  )   C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if certificate needs to be renewed (aka agent restart required)""   C:\opt\omsagentwindows\scripts\powershell>IF EXIST C:\etc\omsagentwindows\renewcertificate.txt ( echo ""Certificate needs to be renewed""    exit /b  1  )   C:\opt\omsagentwindows\scripts\powershell>REM ""Checking if fluentd service is running""   C:\opt\omsagentwindows\scripts\powershell>sc query fluentdwinaks   | findstr /i STATE   | findstr RUNNING  Not enough memory resources are available to process this command. The system cannot execute the specified program. "
+"30/7/2021, 2:42:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"30/7/2021, 2:18:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"30/7/2021, 2:25:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"7/8/2021, 5:12:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 5:19:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = Unknown desc = operation timeout: context deadline exceeded
+"7/8/2021, 6:26:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 7:44:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 3:57:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 4:16:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 4:59:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 5:45:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 6:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 10:01:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 11:47:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"6/8/2021, 11:54:29.000 pm",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 1:38:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
+"7/8/2021, 3:13:29.000 am",Pod,Unhealthy,Liveness probe errored: rpc error: code = DeadlineExceeded desc = context deadline exceeded
